@@ -1,19 +1,16 @@
-# React + Vite
+ Appversal Assignment - Dashboard UI
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a React + Vite project I built for an assignment.  
+The goal was to create a clean and responsive dashboard with summary cards, charts, and navigation.  
 
-Currently, two official plugins are available:
+ Tech Stack
+- React 18 + Vite
+- Redux Toolkit
+- Tailwind CSS
+- Recharts
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+ Getting Started
+```bash
+npm install
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-"# AppVerselAssignment" 
-"# AppVerselAssignment" 
-"# AppVerselAssignment" 
-"# AppVersalAssigment" 
-"# AppVersalAssigment" 
-"# AppVersalAssigment" 
-"# AppversalAssign" 
+npm run dev
